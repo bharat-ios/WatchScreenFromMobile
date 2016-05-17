@@ -1,0 +1,32 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6FAEA31F9D38722FA1DEFF0CC9B6B89E2964F911",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "4acb82bf-45c4-459c-a24d-65e7752386e7++5833" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6FAEA31F9D38722FA1DEFF0CC9B6B89E2964F911" : 0,
+    "4acb82bf-45c4-459c-a24d-65e7752386e7++5833" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2B5729E2-EE00-4265-BF33-826B9EF663F2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6FAEA31F9D38722FA1DEFF0CC9B6B89E2964F911" : "DeviProjects\/",
+    "4acb82bf-45c4-459c-a24d-65e7752386e7++5833" : "DeviProjects\/watchKitEx%202\/base64\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "watchKitEx",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "watchKitEx 2\/watchKitEx.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/repo.flipdevnet.com\/svn\/osx",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4acb82bf-45c4-459c-a24d-65e7752386e7++5833"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/devibharat_b\/bharatrepositorytest.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6FAEA31F9D38722FA1DEFF0CC9B6B89E2964F911"
+    }
+  ]
+}
